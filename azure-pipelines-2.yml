@@ -6,7 +6,5 @@
 
 
 steps:
-- script: docker  build -t react .
+- script: docker-compose up
  
-
-- script: docker run react
