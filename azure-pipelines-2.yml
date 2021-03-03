@@ -8,5 +8,5 @@
 steps:
 - script: docker  build -t react .
  
-steps:
+
 - script: docker run react
